@@ -12,7 +12,7 @@ collections:
       file: "content/home.md"
       fields:
       - label: 'Articles'
-        name: 'Post'
+        name: 'Posts'
         widget: list
         fields:
         - { label: "Title", name: "title", widget: "string"}
