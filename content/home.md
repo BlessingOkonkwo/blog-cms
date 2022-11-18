@@ -8,5 +8,9 @@ cats:
     name: Lil Bub
   - description: Grumpy cat is an American celebrity cat known for her grumpy appearance.
     name: Grumpy cat (Tardar Sauce)
+Post:
+  - date: 2022-11-18T14:14:45.157Z
+    title: Grace
+    body: T﻿he Ashawo
 ---
 Welcome to my awesome page about cats of the internet.This page is built with NextJS, and content is managed in Netlify CMS
