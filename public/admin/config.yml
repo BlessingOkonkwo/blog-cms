@@ -11,7 +11,10 @@ collections:
       name: "home"
       file: "content/home.md"
       fields:
+      - label: 'Articles'
+        name: 'Post'
+        widget: list
         - { label: "Title", name: "title", widget: "string"}
         - { label: "Publish Date", name: "date", widget: "datetime" }
         - { label: "Body", name: "body", widget: "markdown"}
-      
+       
